@@ -1,5 +1,5 @@
 
-# Network Security Assessment Project
+### Network Security Assessment Project
 
 This project demonstrates a comprehensive network security assessment using Nmap and nslookup tools. It includes netwrok scanning, DNS enumeration, vulnerability testing, and recommendations for improving network security.
 
