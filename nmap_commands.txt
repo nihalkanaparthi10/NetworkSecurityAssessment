@@ -1,4 +1,4 @@
-Discover Live Hosts:
+Discover Live Hosts::
 nmap -sn <IP>
 
 Detailed Port and Service Scan:
@@ -6,3 +6,8 @@ nmap -sS -sV -p- <IP>
 
 To Save Output:
 nmap -sS -sV -p- <IP> -oN namp_output.txt
+
+Check Common Vulnerabilities:
+nmap --script vuln <IP>
+
+

@@ -5,7 +5,7 @@ This project demonstrates a comprehensive network security assessment using Nmap
 
 ## Project Steps
 
-- **Setup aand Planning**: Define project scope and objectives.
+- **Setup and Planning**: Define project scope and objectives.
 - **Network Discovery**: Use Nmap to discover hosts and services.
 - **DNS Enumeration**: Use nslookup to gather DNS information.
 - **Vulnerability Testing**: Use Nmap for vulnerability assessment.

@@ -1,4 +1,4 @@
-Run nslookup commands:
+Run nslookup commands::
 
 Query DNS Records:
 nslookup <example.com>
