@@ -4,5 +4,5 @@ nmap -sn <IP>
 Detailed Port and Service Scan:
 nmap -sS -sV -p- <IP>
 
-Save Output:
+To Save Output:
 nmap -sS -sV -p- <IP> -oN namp_output.txt
